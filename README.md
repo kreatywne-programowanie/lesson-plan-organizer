@@ -1,2 +1,7 @@
 # lesson-plan-organizer
-Projekt do układanie plan zajęć
+
+Projekt do układanie planu zajęć
+
+
+# Autorzy
+- Piotr Radzikowski
