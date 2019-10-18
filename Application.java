@@ -12,5 +12,6 @@ public class Application {
         System.out.println(group);
         System.out.println(" Twój nauczyciel to: ");
         System.out.println(teacher);
+        Room newRoom = new Room (1,"SuperSalka",10);
     }
 }

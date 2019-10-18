@@ -3,10 +3,10 @@
  */
 public class Student {
 
-    private String name, surname, teacher;
+    private String name, surname, teacher, interests;
     private int age;
 
-    public Student (int age, String name,surname,teacher,interests) {
+    public Student (int age, String name,String surname,String teacher, String interests) {
         this.age = age;
         this.teacher = teacher;
         this.name = name;
