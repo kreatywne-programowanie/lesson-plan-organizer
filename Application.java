@@ -12,5 +12,7 @@ public class Application {
         System.out.println(group);
         System.out.println(" Twój nauczyciel to: ");
         System.out.println(teacher);
+
+        
     }
 }
