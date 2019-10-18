@@ -5,4 +5,4 @@ Projekt do układanie planu zajęć
 
 # Autorzy
 - Piotr Radzikowski
-- Michał Borowicz
+- Piotr Marciniuk
