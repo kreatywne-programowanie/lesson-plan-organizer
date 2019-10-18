@@ -12,7 +12,8 @@ public class Application {
         System.out.println(group);
         System.out.println(" Twój nauczyciel to: ");
         System.out.println(teacher);
+        Student student = new Student(1, "tomasz", "Jan", "Kowalski","programowanie");
+        System.out.println(student);
 
-        
     }
 }
