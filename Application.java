@@ -15,5 +15,6 @@ public class Application {
         Student student = new Student(1, "tomasz", "Jan", "Kowalski","programowanie");
         System.out.println(student);
 
+        Room newRoom = new Room (1,"SuperSalka",10);
     }
 }
